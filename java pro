@@ -1,0 +1,8 @@
+面试问题
+1.jdk  jre  jvm
+jdk  java development kit
+jre  java running enviroment
+jvm java  virtual machine
+2.java 运行环境
+编译 ： javac 将java源文件转换为class字节码文件
+运行 ： java 运行class字节码文件 
